@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Mohave
+Author: Gumpita Rahayu
+Url: https://fonts.google.com/specimen/Mohave
+
+Font: Hurricane
+Author: Robert Leuschke
+Url: https://fonts.google.com/specimen/Hurricane
